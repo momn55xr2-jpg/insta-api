@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/insta.py": {
+      "runtime": "python3.9"
+    }
+  }
+}
